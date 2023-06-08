@@ -8,7 +8,15 @@
 
 A collection of papers and resources about unifying pre-trained language models (PLMs) and knowledge graphs (KGs).
 
+Large pre-trained language models (PLMs) have achieved remarkable success and generalizability in various applications. However, they often fall short of capturing and accessing factual knowledge. Knowledge graphs (KGs) are structured data models that explicitly store rich factual knowledge. Nevertheless, existing methods in KGs are inadequate in handling the incomplete and dynamically
+changing nature of real-world KGs. Therefore, it is natural to unify PLMs and KGs together and simultaneously leverage their advantages.
+
 <img src="figs/PLM_vs_KG.png" width = "600" />
+
+In this repository, we collect recent advances of unifying PLMs and KGs.  We present a roadmap that summarizes three general frameworks: *1) KGs for PLMs*, *2) PLMs for KGs*, *3) Unified PLMs and KGs*.    
+<img src="figs/roadmap.jpg" width = "600" />   
+
+We hope this repository can help researchers and practitioners to get a better understanding of this emerging field.
 
 🔭 This is an under-developing project, you can hit the **STAR** and **WATCH** to follow the updates.
 ## Table of Contents

@@ -56,6 +56,18 @@ Pre-trained Language Representation (TACL, 2020) [[paper]](https://arxiv.org/pdf
 ### PLMs for KG Completion
 ### PLMs for KG to Text Generation
 ### PLMs for KG Question Answering
+
+- UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph (ICLR, 2023) [[paper]](https://arxiv.org/abs/2212.00959)
+- StructGPT: A General Framework for Large Language Model to Reason over Structured Data (Arxiv, 2023) [[paper]](https://arxiv.org/abs/2305.09645)
+- An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA (AAAI, 2022) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20215)
+- An Empirical Study of Pre-trained Language Models in Simple Knowledge Graph Question Answering (World Wide Web Journal, 2023) [[paper]](https://arxiv.org/abs/2303.10368)
+- Empowering Language Models with Knowledge Graph Reasoning for Open-Domain Question Answering (EMNLP, 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.650.pdf)
+- DRLK: Dynamic Hierarchical Reasoning with Language Model and Knowledge Graph for Question Answering (EMNLP, 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.342/)
+- Subgraph Retrieval Enhanced Model for Multi-hop Knowledge Base Question Answering (ACL, 2022) [[paper]](https://aclanthology.org/2022.acl-long.396.pdf)
+- GREASELM: GRAPH REASONING ENHANCED LANGUAGE MODELS FOR QUESTION ANSWERING (ICLR, 2022) [[paper]](https://openreview.net/pdf?id=41e9o6cQPj)
+- QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering (NAACL, 2021) [[paper]](https://aclanthology.org/2021.naacl-main.45/)
+
+
 ## Unified PLMs and KGs
 ### Knowledge Representation
 ### Reasoning

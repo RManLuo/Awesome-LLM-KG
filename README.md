@@ -2,13 +2,15 @@
   [![Awesome](https://awesome.re/badge.svg)](https://github.com/RManLuo/Awesome-LLM-KG) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
   ![](https://img.shields.io/github/last-commit/RManLuo/Awesome-LLM-KG?color=green) 
- ![](https://img.shields.io/badge/PRs-Welcome-red) 
+ ![](https://img.shields.io/badge/PRs-Welcome-red)
+ ![](https://img.shields.io/github/stars/RManLuo/Awesome-LLM-KG?color=yellow)
+![](https://img.shields.io/github/forks/RManLuo/Awesome-LLM-KG?color=lightblue) 
 
 A collection of papers and resources about unifying pre-trained language models (PLMs) and knowledge graphs (KGs).
 
 <img src="figs/PLM_vs_KG.png" width = "600" />
 
-
+🔭 This is an under-developing project, you can hit the **STAR** and **WATCH** to follow the updates.
 ## Table of Contents
 - [Awesome-LLM-KG](#awesome-llm-kg)
   - [Table of Contents](#table-of-contents)
@@ -25,7 +27,8 @@ A collection of papers and resources about unifying pre-trained language models 
   - [Unified PLMs and KGs](#unified-plms-and-kgs)
     - [Knowledge Representation](#knowledge-representation)
     - [Reasoning](#reasoning)
-
+  - [Applications](#applications)
+    - [Recommendation](#recommendation)
 ## Surveys
 
 * A Survey on Knowledge-Enhanced Pre-trained Language Models (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2212.13428.pdf)
@@ -70,4 +73,18 @@ Pre-trained Language Representation (TACL, 2020) [[paper]](https://arxiv.org/pdf
 
 ## Unified PLMs and KGs
 ### Knowledge Representation
+* Pre-training language model incorporating domain-specific heterogeneous knowledge into a unified representation (Expert Systems with Applications, 2023) [[paper]](https://www.sciencedirect.com/science/article/pii/S0957417422023879)
+* Deep Bidirectional Language-Knowledge Graph
+Pretraining (NIPS, 2022) [[paper]](https://arxiv.org/abs/2210.09338)
+* KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation (TACL, 2021) [[paper]](https://aclanthology.org/2021.tacl-1.11.pdf)
+* JointGT: Graph-Text Joint Representation Learning for Text Generation from Knowledge Graphs (ACL 2021) [[paper]](https://aclanthology.org/2021.findings-acl.223/)
 ### Reasoning
+* A Unified Knowledge Graph Augmentation Service for Boosting
+Domain-specific NLP Tasks (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2212.05251.pdf)
+* Unifying Structure Reasoning and Language Model Pre-training
+for Complex Reasoning (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2301.08913.pdf)
+* Complex Logical Reasoning over Knowledge Graphs using Large Language Models (Arxiv, 2023) [[paper]](https://arxiv.org/abs/2305.011577)
+## Applications
+
+### Recommendation
+* RecInDial: A Unified Framework for Conversational Recommendation with Pretrained Language Models (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2110.07477.pdf)

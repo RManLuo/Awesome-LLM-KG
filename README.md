@@ -13,10 +13,11 @@ changing nature of real-world KGs. Therefore, it is natural to unify PLMs and KG
 
 <img src="figs/PLM_vs_KG.png" width = "600" />
 
-In this repository, we collect recent advances of unifying PLMs and KGs.  We present a roadmap that summarizes three general frameworks: *1) KGs for PLMs*, *2) PLMs for KGs*, *3) Unified PLMs and KGs*.    
-<img src="figs/roadmap.jpg" width = "600" />   
+In this repository, we collect recent advances in unifying PLMs and KGs.  We present a roadmap that summarizes three general frameworks: *1) KGs for PLMs*, *2) PLMs for KGs*, and *3) Unified PLMs and KGs*.    
+<img src="figs/roadmap.png" width = "700" />
 
-We hope this repository can help researchers and practitioners to get a better understanding of this emerging field.
+We also illustrate the techniques and applications. We hope this repository can help researchers and practitioners to get a better understanding of this emerging field.   
+<img src="figs/Unifying.png" width = "600" />
 
 🔭 This is an under-developing project, you can hit the **STAR** and **WATCH** to follow the updates.
 ## Table of Contents

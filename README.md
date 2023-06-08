@@ -5,7 +5,8 @@
  ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 A collection of papers and resources about unifying pre-trained language models (PLMs) and knowledge graphs (KGs).
-<img src="figs/PLM_vs_KG.png" style="zoom: 20%;" />
+
+<img src="figs/PLM_vs_KG.png" width = "400" />
 
 
 ## Table of Contents

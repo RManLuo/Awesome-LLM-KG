@@ -6,7 +6,7 @@
 
 A collection of papers and resources about unifying pre-trained language models (PLMs) and knowledge graphs (KGs).
 
-<img src="figs/PLM_vs_KG.png" width = "400" />
+<img src="figs/PLM_vs_KG.png" width = "600" />
 
 
 ## Table of Contents

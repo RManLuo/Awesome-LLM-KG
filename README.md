@@ -70,6 +70,20 @@ We hope this repository can help researchers and practitioners to get a better u
 Pre-trained Language Representation (TACL, 2020) [[paper]](https://arxiv.org/pdf/1911.06136.pdf)
 
 ### PLMs for KG Completion
+- KG-BERT: BERT for knowledge graph completion (Arxiv, 2019) [[paper]](http://arxiv.org/abs/1909.03193)
+- Multi-task learning for knowledge graph completion with pre-trained language models (COLING, 2020) [[paper]](https://doi.org/10.18653/v1/2020.coling-main.153)
+- Do pre-trained models benefit knowledge graph completion? A reliable evaluation and a reasonable approach (ACL, 2022) [[paper]](https://doi.org/10.18653/v1/2022.findings-acl.282)
+- Joint language semantic and structure embedding for knowledge graph completion (COLING, 2022) [[paper]](https://aclanthology.org/2022.coling-1.171)
+- MEM-KGC: masked entity model for knowledge graph completion with pre-trained language model (IEEE Access, 2021) [[paper]](https://doi.org/10.1109/ACCESS.2021.3113329)
+- Knowledge graph extension with a pre-trained language model via unified learning method (Knowl. Based Syst., 2023) [[paper]](https://doi.org/10.1016/j.knosys.2022.110245)
+- Structure-augmented text representation learning for efficient knowledge graph completion (WWW, 2021) [[paper]](https://doi.org/10.1145/3442381.3450043)
+- Simkgc: Simple contrastive knowledge graph completion with pre-trained language models (ACL, 2022) [[paper]](https://doi.org/10.18653/v1/2022.acl-long.295)
+- Dipping plms sauce: Bridging structure and text for effective knowledge graph completion via conditional soft prompting (ACL, 2023) [[paper]]()
+- Lp-bert: Multi-task pre-training knowledge graph bert for link prediction (Arxiv, 2022) [[paper]](https://arxiv.org/abs/2201.04843)
+- From discrimination to generation: Knowledge graph completion with generative transformer (WWW, 2022) [[paper]](https://doi.org/10.1145/3487553.3524238)
+- Sequence-to-sequence knowledge graph completion and question answering (ACL, 2022) [[paper]](https://doi.org/10.18653/v1/2022.acl-long.201)
+- Knowledge is flat: A seq2seq generative framework for various knowledge graph completion (COLING, 2022) [[paper]](https://aclanthology.org/2022.coling-1.352)
+- A framework for adapting pre-trained language models to knowledge graph completion (EMNLP, 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.398)
 ### PLMs for KG to Text Generation
 ### PLMs for KG Question Answering
 

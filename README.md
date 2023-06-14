@@ -62,7 +62,18 @@ We hope this repository can help researchers and practitioners to get a better u
 ### KG-enhanced LLM Inference
 
 ### KG-enhanced LLM Interpretability
--Language models as knowledge bases (EMNLP, 2019) [[paper]](https://arxiv.org/pdf/1909.01066.pdf)
+- Language models as knowledge bases (EMNLP, 2019) [[paper]](https://arxiv.org/pdf/1909.01066.pdf)
+- Knowledge neurons in pretrained transformers (Arxiv, 2021) [[paper]](https://arxiv.org/pdf/2104.08696.pdf)
+- Kagnet: Knowledge-aware graph networks for commonsense reasoning (Arxiv, 2019) [[paper]](https://arxiv.org/pdf/1909.02151.pdf)
+- QA-GNN: Reasoning with language models and knowledge graphs for question answering (ACL, 2021) [[paper]](https://arxiv.org/pdf/2104.06378.pdf)
+- How can we know what language models know? (ACL, 2020) [[paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00324/96460)
+- Autoprompt: Eliciting knowledge from language models with automatically generated prompts (Arxiv, 2020) [[paper]](https://arxiv.org/pdf/2010.15980.pdf)
+- How to Query Language Models? (Arxiv, 2021) [[paper]](https://arxiv.org/pdf/2108.01928.pdf)
+- Rewire-then-probe: A contrastive recipe for probing biomedical knowledge of pre-trained language models (Arxiv, 2021) [[paper]](https://arxiv.org/pdf/2110.08173.pdf)
+- When Not to Trust Language Models: Investigating Effectiveness and Limitations of Parametric and Non-Parametric Memories (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2212.10511.pdf)
+- Interpreting language models through knowledge graph extraction (Arxiv, 2021) [[paper]](https://arxiv.org/pdf/2111.08546.pdf)
+- How Pre-trained Language Models Capture Factual Knowledge? A Causal-Inspired Analysis (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2203.16747.pdf)
+- Can Language Models be Biomedical Knowledge Bases? (EMNLP, 2021) [[paper]](https://arxiv.org/pdf/2109.07154.pdf)
 
 ## LLM-augmented KGs
 ### LLM-augmented KG Embedding

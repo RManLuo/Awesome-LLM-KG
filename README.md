@@ -39,7 +39,7 @@ We hope this repository can help researchers and practitioners to get a better u
   - [PLMs for KGs](#plms-for-kgs)
     - [PLM-augmented KG Embedding](#plm-augmented-kg-embedding)
     - [LLM-augmented KG Completion](#llm-augmented-kg-completion)
-    - [LLM-augmented KG to Text Generation](#llm-augmented-kg-to-text-generation)
+    - [LLM-augmented KG-to-Text Generation](#llm-augmented-kg-to-text-generation)
     - [LLM-augmented KG Question Answering](#llm-augmented-kg-question-answering)
   - [Synergized LLMs + KGs](#synergized-llms--kgs)
     - [Knowledge Representation](#knowledge-representation)
@@ -88,7 +88,7 @@ Pre-trained Language Representation (TACL, 2020) [[paper]](https://arxiv.org/pdf
 - Sequence-to-sequence knowledge graph completion and question answering (ACL, 2022) [[paper]](https://doi.org/10.18653/v1/2022.acl-long.201)
 - Knowledge is flat: A seq2seq generative framework for various knowledge graph completion (COLING, 2022) [[paper]](https://aclanthology.org/2022.coling-1.352)
 - A framework for adapting pre-trained language models to knowledge graph completion (EMNLP, 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.398)
-### LLM-augmented KG to Text Generation
+### LLM-augmented KG-to-Text Generation
 ### LLM-augmented KG Question Answering
 
 - UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph (ICLR, 2023) [[paper]](https://arxiv.org/abs/2212.00959)

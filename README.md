@@ -36,8 +36,8 @@ We hope this repository can help researchers and practitioners to get a better u
     - [KG-enhanced PLM Pre-training](#kg-enhanced-plm-pre-training)
     - [KG-enhanced PLM Inference](#kg-enhanced-plm-inference)
     - [KG-enhanced PLM Interpretability](#kg-enhanced-plm-interpretability)
-  - [PLMs for KGs](#plms-for-kgs)
-    - [PLM-augmented KG Embedding](#plm-augmented-kg-embedding)
+  - [LLM-augmented KGs](#llm-augmented-kgs)
+    - [LLM-augmented KG Embedding](#llm-augmented-kg-embedding)
     - [LLM-augmented KG Completion](#llm-augmented-kg-completion)
     - [LLM-augmented KG-to-Text Generation](#llm-augmented-kg-to-text-generation)
     - [LLM-augmented KG Question Answering](#llm-augmented-kg-question-answering)
@@ -61,8 +61,8 @@ We hope this repository can help researchers and practitioners to get a better u
 
 ### KG-enhanced PLM Interpretability
 
-## PLMs for KGs
-### PLM-augmented KG Embedding
+## LLM-augmented KGs
+### LLM-augmented KG Embedding
 
 - LambdaKG: A Library for Pre-trained Language Model-Based Knowledge Graph Embeddings (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2210.00305.pdf)
 - Integrating Knowledge Graph embedding and pretrained Language Models in Hypercomplex Spaces (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2208.02743.pdf)

@@ -6,14 +6,17 @@
  ![](https://img.shields.io/github/stars/RManLuo/Awesome-LLM-KG?color=yellow)
 ![](https://img.shields.io/github/forks/RManLuo/Awesome-LLM-KG?color=lightblue) 
 
-A collection of papers and resources about unifying pre-trained language models (PLMs) and knowledge graphs (KGs).
+A collection of papers and resources about unifying large language models (LLMs) and knowledge graphs (KGs).
 
-Large pre-trained language models (PLMs) have achieved remarkable success and generalizability in various applications. However, they often fall short of capturing and accessing factual knowledge. Knowledge graphs (KGs) are structured data models that explicitly store rich factual knowledge. Nevertheless, existing methods in KGs are inadequate in handling the incomplete and dynamically
-changing nature of real-world KGs. Therefore, it is natural to unify PLMs and KGs together and simultaneously leverage their advantages.
+Large language models (LLMs) have achieved remarkable success and generalizability in various applications. However, they often fall short of capturing and accessing factual knowledge. Knowledge graphs (KGs) are structured data models that explicitly store rich factual knowledge. Nevertheless, KGs are hard to construct and existing methods in KGs are inadequate in handling the incomplete and dynamically changing nature of real-world KGs. Therefore, it is natural to unify LLMs and KGs together and simultaneously leverage their advantages.
 
 <img src="figs/PLM_vs_KG.png" width = "600" />
 
-In this repository, we collect recent advances in unifying PLMs and KGs.  We present a roadmap that summarizes three general frameworks: *1) KGs for PLMs*, *2) PLMs for KGs*, and *3) Unified PLMs and KGs*.
+## News
+🔭 This is an under-developing project, you can hit the **STAR** and **WATCH** to follow the updates.
+* Our roadmap paper: 
+
+In this repository, we collect recent advances in unifying LLMs and KGs.  We present a roadmap that summarizes three general frameworks: *1) KG-enhanced LLMs*, *2) LLMs-augmented KGs*, and *3) Synergized LLMs + KGs*.
 
 <img src="figs/roadmap.png" width = "800" />
 
@@ -23,26 +26,27 @@ We also illustrate the involved techniques and applications.
 
 We hope this repository can help researchers and practitioners to get a better understanding of this emerging field. 
 
-🔭 This is an under-developing project, you can hit the **STAR** and **WATCH** to follow the updates.
+
 ## Table of Contents
 - [Awesome-LLM-KG](#awesome-llm-kg)
+  - [News](#news)
   - [Table of Contents](#table-of-contents)
-  - [Surveys](#surveys)
-  - [KGs for PLMs](#kgs-for-plms)
-    - [KGs for PLM Pre-training](#kgs-for-plm-pre-training)
-    - [KGs for PLM Inference](#kgs-for-plm-inference)
-    - [KGs for PLM Interpretability](#kgs-for-plm-interpretability)
+  - [Related Surveys](#related-surveys)
+  - [KG-enhanced PLMs](#kg-enhanced-plms)
+    - [KG-enhanced PLM Pre-training](#kg-enhanced-plm-pre-training)
+    - [KG-enhanced PLM Inference](#kg-enhanced-plm-inference)
+    - [KG-enhanced PLM Interpretability](#kg-enhanced-plm-interpretability)
   - [PLMs for KGs](#plms-for-kgs)
-    - [PLMs for KG Embedding](#plms-for-kg-embedding)
-    - [PLMs for KG Completion](#plms-for-kg-completion)
-    - [PLMs for KG to Text Generation](#plms-for-kg-to-text-generation)
-    - [PLMs for KG Question Answering](#plms-for-kg-question-answering)
-  - [Unified PLMs and KGs](#unified-plms-and-kgs)
+    - [PLM-augmented KG Embedding](#plm-augmented-kg-embedding)
+    - [LLM-augmented KG Completion](#llm-augmented-kg-completion)
+    - [LLM-augmented KG to Text Generation](#llm-augmented-kg-to-text-generation)
+    - [LLM-augmented KG Question Answering](#llm-augmented-kg-question-answering)
+  - [Synergized LLMs + KGs](#synergized-llms--kgs)
     - [Knowledge Representation](#knowledge-representation)
     - [Reasoning](#reasoning)
   - [Applications](#applications)
     - [Recommendation](#recommendation)
-## Surveys
+## Related Surveys
 
 * A Survey on Knowledge-Enhanced Pre-trained Language Models (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2212.13428.pdf)
 * A Survey of Knowledge-Intensive NLP with Pre-Trained Language Models (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2202.08772.pdf)
@@ -50,15 +54,15 @@ We hope this repository can help researchers and practitioners to get a better u
 * Generative Knowledge Graph Construction: A Review (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2210.12714.pdf)
 * Knowledge Enhanced Pretrained Language Models: A Compreshensive Survey (Arxiv, 2021) [[paper]](https://arxiv.org/pdf/2110.08455.pdf)
 
-## KGs for PLMs
-### KGs for PLM Pre-training
+## KG-enhanced PLMs
+### KG-enhanced PLM Pre-training
 
-### KGs for PLM Inference
+### KG-enhanced PLM Inference
 
-### KGs for PLM Interpretability
+### KG-enhanced PLM Interpretability
 
 ## PLMs for KGs
-### PLMs for KG Embedding
+### PLM-augmented KG Embedding
 
 - LambdaKG: A Library for Pre-trained Language Model-Based Knowledge Graph Embeddings (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2210.00305.pdf)
 - Integrating Knowledge Graph embedding and pretrained Language Models in Hypercomplex Spaces (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2208.02743.pdf)
@@ -69,7 +73,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - KEPLER: A Unified Model for Knowledge Embedding and
 Pre-trained Language Representation (TACL, 2020) [[paper]](https://arxiv.org/pdf/1911.06136.pdf)
 
-### PLMs for KG Completion
+### LLM-augmented KG Completion
 - KG-BERT: BERT for knowledge graph completion (Arxiv, 2019) [[paper]](http://arxiv.org/abs/1909.03193)
 - Multi-task learning for knowledge graph completion with pre-trained language models (COLING, 2020) [[paper]](https://doi.org/10.18653/v1/2020.coling-main.153)
 - Do pre-trained models benefit knowledge graph completion? A reliable evaluation and a reasonable approach (ACL, 2022) [[paper]](https://doi.org/10.18653/v1/2022.findings-acl.282)
@@ -84,8 +88,8 @@ Pre-trained Language Representation (TACL, 2020) [[paper]](https://arxiv.org/pdf
 - Sequence-to-sequence knowledge graph completion and question answering (ACL, 2022) [[paper]](https://doi.org/10.18653/v1/2022.acl-long.201)
 - Knowledge is flat: A seq2seq generative framework for various knowledge graph completion (COLING, 2022) [[paper]](https://aclanthology.org/2022.coling-1.352)
 - A framework for adapting pre-trained language models to knowledge graph completion (EMNLP, 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.398)
-### PLMs for KG to Text Generation
-### PLMs for KG Question Answering
+### LLM-augmented KG to Text Generation
+### LLM-augmented KG Question Answering
 
 - UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph (ICLR, 2023) [[paper]](https://arxiv.org/abs/2212.00959)
 - StructGPT: A General Framework for Large Language Model to Reason over Structured Data (Arxiv, 2023) [[paper]](https://arxiv.org/abs/2305.09645)
@@ -98,7 +102,7 @@ Pre-trained Language Representation (TACL, 2020) [[paper]](https://arxiv.org/pdf
 - QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering (NAACL, 2021) [[paper]](https://aclanthology.org/2021.naacl-main.45/)
 
 
-## Unified PLMs and KGs
+## Synergized LLMs + KGs
 ### Knowledge Representation
 * Pre-training language model incorporating domain-specific heterogeneous knowledge into a unified representation (Expert Systems with Applications, 2023) [[paper]](https://www.sciencedirect.com/science/article/pii/S0957417422023879)
 * Deep Bidirectional Language-Knowledge Graph

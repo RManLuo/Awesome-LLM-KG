@@ -34,10 +34,10 @@ We hope this repository can help researchers and practitioners to get a better u
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
   - [Related Surveys](#related-surveys)
-  - [KG-enhanced PLMs](#kg-enhanced-plms)
-    - [KG-enhanced PLM Pre-training](#kg-enhanced-plm-pre-training)
-    - [KG-enhanced PLM Inference](#kg-enhanced-plm-inference)
-    - [KG-enhanced PLM Interpretability](#kg-enhanced-plm-interpretability)
+  - [KG-enhanced LLMs](#kg-enhanced-llms)
+    - [KG-enhanced LLM Pre-training](#kg-enhanced-llm-pre-training)
+    - [KG-enhanced LLM Inference](#kg-enhanced-llm-inference)
+    - [KG-enhanced LLM Interpretability](#kg-enhanced-llm-interpretability)
   - [LLM-augmented KGs](#llm-augmented-kgs)
     - [LLM-augmented KG Embedding](#llm-augmented-kg-embedding)
     - [LLM-augmented KG Completion](#llm-augmented-kg-completion)
@@ -56,12 +56,12 @@ We hope this repository can help researchers and practitioners to get a better u
 * Generative Knowledge Graph Construction: A Review (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2210.12714.pdf)
 * Knowledge Enhanced Pretrained Language Models: A Compreshensive Survey (Arxiv, 2021) [[paper]](https://arxiv.org/pdf/2110.08455.pdf)
 
-## KG-enhanced PLMs
-### KG-enhanced PLM Pre-training
+## KG-enhanced LLMs
+### KG-enhanced LLM Pre-training
 
-### KG-enhanced PLM Inference
+### KG-enhanced LLM Inference
 
-### KG-enhanced PLM Interpretability
+### KG-enhanced LLM Interpretability
 
 ## LLM-augmented KGs
 ### LLM-augmented KG Embedding

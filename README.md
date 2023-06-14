@@ -62,6 +62,7 @@ We hope this repository can help researchers and practitioners to get a better u
 ### KG-enhanced LLM Inference
 
 ### KG-enhanced LLM Interpretability
+-Language models as knowledge bases (EMNLP, 2019) [[paper]](https://arxiv.org/pdf/1909.01066.pdf)
 
 ## LLM-augmented KGs
 ### LLM-augmented KG Embedding

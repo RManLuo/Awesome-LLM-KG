@@ -16,6 +16,7 @@ Large language models (LLMs) have achieved remarkable success and generalizabili
 🔭 This is an under-developing project, you can hit the **STAR** and **WATCH** to follow the updates.
 * Our roadmap paper: 
 
+## Overview
 In this repository, we collect recent advances in unifying LLMs and KGs.  We present a roadmap that summarizes three general frameworks: *1) KG-enhanced LLMs*, *2) LLMs-augmented KGs*, and *3) Synergized LLMs + KGs*.
 
 <img src="figs/roadmap.png" width = "800" />
@@ -30,6 +31,7 @@ We hope this repository can help researchers and practitioners to get a better u
 ## Table of Contents
 - [Awesome-LLM-KG](#awesome-llm-kg)
   - [News](#news)
+  - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
   - [Related Surveys](#related-surveys)
   - [KG-enhanced PLMs](#kg-enhanced-plms)

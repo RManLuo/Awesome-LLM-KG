@@ -58,25 +58,35 @@ We hope this repository can help researchers and practitioners to get a better u
 
 ## KG-enhanced LLMs
 ### KG-enhanced LLM Pre-training
-ERNIE: Enhanced Language Representation with Informative Entities (ACL, 2019) [[paper]](https://aclanthology.org/P19-1139.pdf)
-Exploiting structured knowledge in text via graph-guided representation learning (EMNLP, 2019) [[paper]](https://aclanthology.org/2020.emnlp-main.722.pdf)
-SKEP: Sentiment knowledge enhanced pre-training for sentiment analysis (ACL, 2020) [[paper]](https://aclanthology.org/2020.acl-main.374.pdf)
-E-bert: A phrase and product knowledge enhanced language model for e-commerce (Arxiv, 2020) [[paper]](https://arxiv.org/pdf/2009.02835.pdf)
-Pretrained encyclopedia: Weakly supervised knowledge-pretrained language model (ICLR, 2020) [[paper]](https://openreview.net/pdf?id=BJlzm64tDH)
-BERT-MK: Integrating graph contextualized knowledge into pre-trained language models (EMNLP, 2020) [[paper]](https://aclanthology.org/2020.findings-emnlp.207.pdf)
-K-BERT: enabling language representation with knowledge graph (AAAI, 2020) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5681/5537)
-CoLAKE: Contextualized language and knowledge embedding (COLING, 2020) [[paper]](https://aclanthology.org/2020.coling-main.327.pdf)
-Kepler: A unified model for knowledge embedding and pre-trained language representation (TACL, 2021) [[paper]](https://aclanthology.org/2021.tacl-1.11.pdf)
-K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters (ACL Findings, 2021) [[paper]](https://aclanthology.org/2021.findings-acl.121.pdf)
-Cokebert: Contextual knowledge selection and embedding towards enhanced pre-trained language models (AI Open, 2021) [[paper]](https://www.sciencedirect.com/science/article/pii/S2666651021000188/pdfft?md5=75919f85dcb5711fd2fe9e3785b24982&pid=1-s2.0-S2666651021000188-main.pdf)
-Ernie 3.0: Large-scale knowledge enhanced pre-training for language understanding and generation (Arixv, 2021) [[paper]](https://arxiv.org/pdf/2107.02137)
-Pre-training language models with deterministic factual knowledge (EMNLP, 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.764.pdf)
-Kala: Knowledge-augmented language model adaptation (NAACL, 2022) [[paper]](https://aclanthology.org/2022.naacl-main.379.pdf)
-DKPLM: decomposable knowledge-enhanced pre-trained language model for natural language understanding (AAAI, 2022) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21425/21174)
-Dict-BERT: Enhancing language model pre-training with dictionary (ACL Findings, 2022) [[paper]](https://aclanthology.org/2022.findings-acl.150.pdf)
-JAKET: joint pre-training of knowledge graph and language understanding (AAAI, 2022) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21417/21166)
+- ERNIE: Enhanced Language Representation with Informative Entities (ACL, 2019) [[paper]](https://aclanthology.org/P19-1139.pdf)
+- Exploiting structured knowledge in text via graph-guided representation learning (EMNLP, 2019) [[paper]](https://aclanthology.org/2020.emnlp-main.722.pdf)
+- SKEP: Sentiment knowledge enhanced pre-training for sentiment analysis (ACL, 2020) [[paper]](https://aclanthology.org/2020.acl-main.374.pdf)
+- E-bert: A phrase and product knowledge enhanced language model for e-commerce (Arxiv, 2020) [[paper]](https://arxiv.org/pdf/2009.02835.pdf)
+- Pretrained encyclopedia: Weakly supervised knowledge-pretrained language model (ICLR, 2020) [[paper]](https://openreview.net/pdf?id=BJlzm64tDH)
+- BERT-MK: Integrating graph contextualized knowledge into pre-trained language models (EMNLP, 2020) [[paper]](https://aclanthology.org/2020.findings-emnlp.207.pdf)
+- K-BERT: enabling language representation with knowledge graph (AAAI, 2020) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5681/5537)
+- CoLAKE: Contextualized language and knowledge embedding (COLING, 2020) [[paper]](https://aclanthology.org/2020.coling-main.327.pdf)
+- Kepler: A unified model for knowledge embedding and pre-trained language representation (TACL, 2021) [[paper]](https://aclanthology.org/2021.tacl-1.11.pdf)
+- K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters (ACL Findings, 2021) [[paper]](https://aclanthology.org/2021.findings-acl.121.pdf)
+- Cokebert: Contextual knowledge selection and embedding towards enhanced pre-trained language models (AI Open, 2021) [[paper]](https://www.sciencedirect.com/science/article/pii/S2666651021000188/pdfft?md5=75919f85dcb5711fd2fe9e3785b24982&pid=1-s2.0-S2666651021000188-main.pdf)
+- Ernie 3.0: Large-scale knowledge enhanced pre-training for language understanding and generation (Arixv, 2021) [[paper]](https://arxiv.org/pdf/2107.02137)
+- Pre-training language models with deterministic factual knowledge (EMNLP, 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.764.pdf)
+- Kala: Knowledge-augmented language model adaptation (NAACL, 2022) [[paper]](https://aclanthology.org/2022.naacl-main.379.pdf)
+- DKPLM: decomposable knowledge-enhanced pre-trained language model for natural language understanding (AAAI, 2022) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21425/21174)
+- Dict-BERT: Enhancing language model pre-training with dictionary (ACL Findings, 2022) [[paper]](https://aclanthology.org/2022.findings-acl.150.pdf)
+- JAKET: joint pre-training of knowledge graph and language understanding (AAAI, 2022) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21417/21166)
 
 ### KG-enhanced LLM Inference
+- Barack’s wife hillary: Using knowledge graphs for fact-aware language modeling (ACL, 2019) [[paper]](https://aclanthology.org/P19-1598.pdf)
+- Retrieval-augmented generation for knowledge-intensive nlp tasks (NeurIPS, 2020) [[paper]](https://proceedings.neurips.cc/paper_files/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
+- Realm: Retrieval-augmented language model pre-training (ICML, 2020) [[paper]](https://dl.acm.org/doi/pdf/10.5555/3524938.3525306)
+- QA-GNN: Reasoning with language models and knowledge graphs for question answering (NAACL, 2021) [[paper]](https://aclanthology.org/2021.naacl-main.45.pdf)
+- Memory and knowledge augmented language models for inferring salience in long-form stories (EMNLP, 2021) [[paper]](https://aclanthology.org/2021.
+emnlp-main.65.pdf)
+- JointLK: Joint reasoning with language models and knowledge graphs for commonsense question answering (NAACL, 2022) [[paper]](https://aclanthology.org/2022.
+naacl-main.372.pdf)
+- Greaselm: Graph reasoning enhanced language models (ICLR, 2022) [[paper]](https://openreview.net/pdf?id=41e9o6cQPj)
+- An efficient memory-augmented transformer for knowledge-intensive NLP tasks (EMNLP, 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.346.pdf)
 
 ### KG-enhanced LLM Interpretability
 - Language models as knowledge bases (EMNLP, 2019) [[paper]](https://arxiv.org/pdf/1909.01066.pdf)
@@ -94,7 +104,6 @@ JAKET: joint pre-training of knowledge graph and language understanding (AAAI, 2
 
 ## LLM-augmented KGs
 ### LLM-augmented KG Embedding
-
 - LambdaKG: A Library for Pre-trained Language Model-Based Knowledge Graph Embeddings (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2210.00305.pdf)
 - Integrating Knowledge Graph embedding and pretrained Language Models in Hypercomplex Spaces (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2208.02743.pdf)
 - Endowing Language Models with Multimodal Knowledge Graph Representations (Arxiv, 2022) [[paper]](https://arxiv.org/abs/2206.13163)
@@ -120,6 +129,14 @@ Pre-trained Language Representation (TACL, 2020) [[paper]](https://arxiv.org/pdf
 - Knowledge is flat: A seq2seq generative framework for various knowledge graph completion (COLING, 2022) [[paper]](https://aclanthology.org/2022.coling-1.352)
 - A framework for adapting pre-trained language models to knowledge graph completion (EMNLP, 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.398)
 ### LLM-augmented KG-to-Text Generation
+- GenWiki: A dataset of 1.3 million content-sharing text and graphs for unsupervised graph-to-text generation  (COLING, 2020) [[paper]](https://aclanthology.org/2020.coling-main.217.pdf)
+- KGPT: Knowledge-grounded pre-training for data-to-text generation (EMNLP 2020) [[paper]](https://aclanthology.org/2020.emnlp-main.697.pdf)
+- JointGT: Graph-text joint representation learning for text generation from knowledge graphs (ACL Findings, 2021) [[paper]](https://aclanthology.org/
+2021.findings-acl.223.pdf)
+- Investigating pretrained language models for graph-to-text generation (NLP4ConvAI, 2021) [[paper]](https://aclanthology.org/2021.nlp4convai-1.20.pdf)
+- Few-shot knowledge graph-to-text generation with pretrained language models (ACL, 2021) [[paper]](https://aclanthology.org/2021.findings-acl.136.pdf)
+- GAP: A graph-aware language model framework for knowledge graph-to-text generation (COLING, 2022) [[paper]](https://aclanthology.org/2022.coling-1.506.pdf)
+
 ### LLM-augmented KG Question Answering
 
 - UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph (ICLR, 2023) [[paper]](https://arxiv.org/abs/2212.00959)

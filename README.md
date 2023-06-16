@@ -171,7 +171,7 @@ Pretraining (NIPS, 2022) [[paper]](https://arxiv.org/abs/2210.09338)
 Domain-specific NLP Tasks (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2212.05251.pdf)
 * Unifying Structure Reasoning and Language Model Pre-training
 for Complex Reasoning (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2301.08913.pdf)
-* Complex Logical Reasoning over Knowledge Graphs using Large Language Models (Arxiv, 2023) [[paper]](https://arxiv.org/abs/2305.011577)
+* Complex Logical Reasoning over Knowledge Graphs using Large Language Models (Arxiv, 2023) [[paper]](https://arxiv.org/abs/2305.01157)
 ## Applications
 
 ### Recommendation

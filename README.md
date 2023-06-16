@@ -65,6 +65,7 @@ year={2023}
 * A Review on Language Models as Knowledge Bases (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2204.06031.pdf)
 * Generative Knowledge Graph Construction: A Review (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2210.12714.pdf)
 * Knowledge Enhanced Pretrained Language Models: A Compreshensive Survey (Arxiv, 2021) [[paper]](https://arxiv.org/pdf/2110.08455.pdf)
+* Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal (Arxiv, 2022) [[paper]](https://arxiv.org/abs/2212.05767)[[code]](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning)
 
 ## KG-enhanced LLMs
 ### KG-enhanced LLM Pre-training

@@ -25,7 +25,16 @@ We also illustrate the involved techniques and applications.
 
 <img src="figs/Unifying.png" width = "600" />
 
-We hope this repository can help researchers and practitioners to get a better understanding of this emerging field. 
+We hope this repository can help researchers and practitioners to get a better understanding of this emerging field.    
+If this repository is helpful for you, plase help us by citing this paper:
+```bash
+@article{llm_kg,
+title={Unifying Large Language Models and Knowledge Graphs: A Roadmap},
+author={Shirui Pan, Linhao Luo, Yufei Wang, Chen Chen, Jiapu Wang, Xindong Wu},
+journal={arXiv preprint arxiv:306.08302},
+year={2023}
+}
+```
 
 
 ## Table of Contents

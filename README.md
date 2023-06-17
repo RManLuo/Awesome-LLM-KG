@@ -94,6 +94,7 @@ year={2023}
 - QA-GNN: Reasoning with language models and knowledge graphs for question answering (NAACL, 2021) [[paper]](https://aclanthology.org/2021.naacl-main.45.pdf)
 - Memory and knowledge augmented language models for inferring salience in long-form stories (EMNLP, 2021) [[paper]](https://aclanthology.org/2021.emnlp-main.65.pdf)
 - JointLK: Joint reasoning with language models and knowledge graphs for commonsense question answering (NAACL, 2022) [[paper]](https://aclanthology.org/2022.naacl-main.372.pdf)
+- Enhanced Story Comprehension for Large Language Models through Dynamic Document-Based Knowledge Graphs (AAAI, 2022) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21286)
 - Greaselm: Graph reasoning enhanced language models (ICLR, 2022) [[paper]](https://openreview.net/pdf?id=41e9o6cQPj)
 - An efficient memory-augmented transformer for knowledge-intensive NLP tasks (EMNLP, 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.346.pdf)
 - Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering (NLRSE@ACL, 2023) [[paper]](https://arxiv.org/abs/2306.04136)
@@ -139,7 +140,7 @@ Pre-trained Language Representation (TACL, 2020) [[paper]](https://arxiv.org/pdf
 - A framework for adapting pre-trained language models to knowledge graph completion (EMNLP, 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.398)
 - Dipping plms sauce: Bridging structure and text for effective knowledge graph completion via conditional soft prompting (ACL, 2023) [[paper]]()
 ### LLM-augmented KG-to-Text Generation
-- GenWiki: A dataset of 1.3 million content-sharing text and graphs for unsupervised graph-to-text generation  (COLING, 2020) [[paper]](https://aclanthology.org/2020.coling-main.217.pdf)
+- GenWiki: A dataset of 1.3 million content-sharing text and graphs for unsupervised graph-to-text generation  (COLING, 2020) [[paper]](https://aclanthology.org/2020.coling-main.217.pdf)g
 - KGPT: Knowledge-grounded pre-training for data-to-text generation (EMNLP 2020) [[paper]](https://aclanthology.org/2020.emnlp-main.697.pdf)
 - JointGT: Graph-text joint representation learning for text generation from knowledge graphs (ACL Findings, 2021) [[paper]](https://aclanthology.org/2021.findings-acl.223.pdf)
 - Investigating pretrained language models for graph-to-text generation (NLP4ConvAI, 2021) [[paper]](https://aclanthology.org/2021.nlp4convai-1.20.pdf)

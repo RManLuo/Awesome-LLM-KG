@@ -30,7 +30,7 @@ If this repository is helpful for you, plase help us by citing this paper:
 ```bash
 @article{llm_kg,
 title={Unifying Large Language Models and Knowledge Graphs: A Roadmap},
-author={Shirui Pan, Linhao Luo, Yufei Wang, Chen Chen, Jiapu Wang, Xindong Wu},
+author={Pan, Shirui and Luo, Linhao and Wang, Yufei and Chen, Chen and Wang, Jiapu and Wu, Xindong},
 journal={arXiv preprint arxiv:306.08302},
 year={2023}
 }
@@ -175,5 +175,5 @@ for Complex Reasoning (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2301.08913.p
 * Complex Logical Reasoning over Knowledge Graphs using Large Language Models (Arxiv, 2023) [[paper]](https://arxiv.org/abs/2305.01157)
 ## Applications
 
-### Recommendation
+### Recommender System
 * RecInDial: A Unified Framework for Conversational Recommendation with Pretrained Language Models (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2110.07477.pdf)

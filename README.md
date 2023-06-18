@@ -140,7 +140,7 @@ Pre-trained Language Representation (TACL, 2020) [[paper]](https://arxiv.org/pdf
 - A framework for adapting pre-trained language models to knowledge graph completion (EMNLP, 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.398)
 - Dipping plms sauce: Bridging structure and text for effective knowledge graph completion via conditional soft prompting (ACL, 2023) [[paper]]()
 ### LLM-augmented KG-to-Text Generation
-- GenWiki: A dataset of 1.3 million content-sharing text and graphs for unsupervised graph-to-text generation  (COLING, 2020) [[paper]](https://aclanthology.org/2020.coling-main.217.pdf)g
+- GenWiki: A dataset of 1.3 million content-sharing text and graphs for unsupervised graph-to-text generation  (COLING, 2020) [[paper]](https://aclanthology.org/2020.coling-main.217.pdf)
 - KGPT: Knowledge-grounded pre-training for data-to-text generation (EMNLP 2020) [[paper]](https://aclanthology.org/2020.emnlp-main.697.pdf)
 - JointGT: Graph-text joint representation learning for text generation from knowledge graphs (ACL Findings, 2021) [[paper]](https://aclanthology.org/2021.findings-acl.223.pdf)
 - Investigating pretrained language models for graph-to-text generation (NLP4ConvAI, 2021) [[paper]](https://aclanthology.org/2021.nlp4convai-1.20.pdf)

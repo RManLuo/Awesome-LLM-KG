@@ -94,6 +94,7 @@ year={2023}
 - QA-GNN: Reasoning with language models and knowledge graphs for question answering (NAACL, 2021) [[paper]](https://aclanthology.org/2021.naacl-main.45.pdf)
 - Memory and knowledge augmented language models for inferring salience in long-form stories (EMNLP, 2021) [[paper]](https://aclanthology.org/2021.emnlp-main.65.pdf)
 - JointLK: Joint reasoning with language models and knowledge graphs for commonsense question answering (NAACL, 2022) [[paper]](https://aclanthology.org/2022.naacl-main.372.pdf)
+- Enhanced Story Comprehension for Large Language Models through Dynamic Document-Based Knowledge Graphs (AAAI, 2022) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21286)
 - Greaselm: Graph reasoning enhanced language models (ICLR, 2022) [[paper]](https://openreview.net/pdf?id=41e9o6cQPj)
 - An efficient memory-augmented transformer for knowledge-intensive NLP tasks (EMNLP, 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.346.pdf)
 - Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering (NLRSE@ACL, 2023) [[paper]](https://arxiv.org/abs/2306.04136)

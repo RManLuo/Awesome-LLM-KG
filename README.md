@@ -63,7 +63,7 @@ year={2023}
 * A Survey on Knowledge-Enhanced Pre-trained Language Models (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2212.13428.pdf)
 * A Survey of Knowledge-Intensive NLP with Pre-Trained Language Models (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2202.08772.pdf)
 * A Review on Language Models as Knowledge Bases (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2204.06031.pdf)
-* Generative Knowledge Graph Construction: A Review (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2210.12714.pdf)
+* Generative Knowledge Graph Construction: A Review (EMNLP, 2022) [[paper]](https://arxiv.org/pdf/2210.12714.pdf)
 * Knowledge Enhanced Pretrained Language Models: A Compreshensive Survey (Arxiv, 2021) [[paper]](https://arxiv.org/pdf/2110.08455.pdf)
 * Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal (Arxiv, 2022) [[paper]](https://arxiv.org/abs/2212.05767)[[code]](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning)
 
@@ -101,11 +101,11 @@ year={2023}
 
 ### KG-enhanced LLM Interpretability
 - Language models as knowledge bases (EMNLP, 2019) [[paper]](https://arxiv.org/pdf/1909.01066.pdf)
-- Knowledge neurons in pretrained transformers (Arxiv, 2021) [[paper]](https://arxiv.org/pdf/2104.08696.pdf)
+- Knowledge neurons in pretrained transformers (ACL, 2021) [[paper]](https://arxiv.org/pdf/2104.08696.pdf)
 - Kagnet: Knowledge-aware graph networks for commonsense reasoning (Arxiv, 2019) [[paper]](https://arxiv.org/pdf/1909.02151.pdf)
 - QA-GNN: Reasoning with language models and knowledge graphs for question answering (ACL, 2021) [[paper]](https://arxiv.org/pdf/2104.06378.pdf)
 - How can we know what language models know? (ACL, 2020) [[paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00324/96460)
-- Autoprompt: Eliciting knowledge from language models with automatically generated prompts (Arxiv, 2020) [[paper]](https://arxiv.org/pdf/2010.15980.pdf)
+- Autoprompt: Eliciting knowledge from language models with automatically generated prompts (EMNLP, 2020) [[paper]](https://arxiv.org/pdf/2010.15980.pdf)
 - How to Query Language Models? (Arxiv, 2021) [[paper]](https://arxiv.org/pdf/2108.01928.pdf)
 - Rewire-then-probe: A contrastive recipe for probing biomedical knowledge of pre-trained language models (Arxiv, 2021) [[paper]](https://arxiv.org/pdf/2110.08173.pdf)
 - When Not to Trust Language Models: Investigating Effectiveness and Limitations of Parametric and Non-Parametric Memories (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2212.10511.pdf)
@@ -121,8 +121,7 @@ year={2023}
 - Language Model Guided Knowledge Graph Embeddings (IEEE Access, 2022) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9831788)
 - Language Models as Knowledge Embeddings (IJCAI, 2022) [[paper]](https://www.ijcai.org/proceedings/2022/0318.pdf)
 - Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models (EMNLP, 2020) [[paper]](https://aclanthology.org/2020.findings-emnlp.25.pdf)
-- KEPLER: A Unified Model for Knowledge Embedding and
-Pre-trained Language Representation (TACL, 2020) [[paper]](https://arxiv.org/pdf/1911.06136.pdf)
+- KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation (TACL, 2020) [[paper]](https://arxiv.org/pdf/1911.06136.pdf)
 
 ### LLM-augmented KG Completion
 - KG-BERT: BERT for knowledge graph completion (Arxiv, 2019) [[paper]](http://arxiv.org/abs/1909.03193)

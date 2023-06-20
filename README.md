@@ -13,7 +13,7 @@ Large language models (LLMs) have achieved remarkable success and generalizabili
 <img src="figs/PLM_vs_KG.png" width = "600" />
 
 ## News
-🔭 This is an under-developing project, you can hit the **STAR** and **WATCH** to follow the updates.
+🔭 This project is under development. You can hit the **STAR** and **WATCH** to follow the updates.
 * Our roadmap paper: [Unifying Large Language Models and Knowledge Graphs: A Roadmap](https://arxiv.org/abs/2306.08302) is now public.
 
 ## Overview

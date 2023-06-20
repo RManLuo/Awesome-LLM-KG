@@ -57,6 +57,7 @@ year={2023}
     - [Reasoning](#reasoning)
   - [Applications](#applications)
     - [Recommendation](#recommendation)
+    - [Fault Analysis](#fault-analysis)
 ## Related Surveys
 
 * Unifying Large Language Models and Knowledge Graphs: A Roadmap (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2306.08302.pdf)

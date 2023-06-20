@@ -119,7 +119,6 @@ year={2023}
 
 ## LLM-augmented KGs
 ### LLM-augmented KG Embedding
-- Tele-Knowledge Pre-training for Fault Analysis (ICDE, 2023) [[paper]](arxiv.org/abs/2210.11298)
 - LambdaKG: A Library for Pre-trained Language Model-Based Knowledge Graph Embeddings (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2210.00305.pdf)
 - Integrating Knowledge Graph embedding and pretrained Language Models in Hypercomplex Spaces (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2208.02743.pdf)
 - Endowing Language Models with Multimodal Knowledge Graph Representations (Arxiv, 2022) [[paper]](https://arxiv.org/abs/2206.13163)

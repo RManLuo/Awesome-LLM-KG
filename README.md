@@ -87,7 +87,7 @@ year={2023}
 - DKPLM: decomposable knowledge-enhanced pre-trained language model for natural language understanding (AAAI, 2022) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21425/21174)
 - Dict-BERT: Enhancing language model pre-training with dictionary (ACL Findings, 2022) [[paper]](https://aclanthology.org/2022.findings-acl.150.pdf)
 - JAKET: joint pre-training of knowledge graph and language understanding (AAAI, 2022) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21417/21166)
-- Tele-Knowledge Pre-training for Fault Analysis (ICDE, 2023) [[paper]](arxiv.org/abs/2210.11298)
+- Tele-Knowledge Pre-training for Fault Analysis (ICDE, 2023) [[paper]](https://arxiv.org/abs/2210.11298)
 
 ### KG-enhanced LLM Inference
 - Barack’s wife hillary: Using knowledge graphs for fact-aware language modeling (ACL, 2019) [[paper]](https://aclanthology.org/P19-1598.pdf)
@@ -166,7 +166,7 @@ year={2023}
 
 ## Synergized LLMs + KGs
 ### Knowledge Representation
-* Tele-Knowledge Pre-training for Fault Analysis (ICDE, 2023) [[paper]](arxiv.org/abs/2210.11298)
+* Tele-Knowledge Pre-training for Fault Analysis (ICDE, 2023) [[paper]](https://arxiv.org/abs/2210.11298)
 * Pre-training language model incorporating domain-specific heterogeneous knowledge into a unified representation (Expert Systems with Applications, 2023) [[paper]](https://www.sciencedirect.com/science/article/pii/S0957417422023879)
 * Deep Bidirectional Language-Knowledge Graph
 Pretraining (NIPS, 2022) [[paper]](https://arxiv.org/abs/2210.09338)
@@ -184,4 +184,4 @@ for Complex Reasoning (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2301.08913.p
 * RecInDial: A Unified Framework for Conversational Recommendation with Pretrained Language Models (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2110.07477.pdf)
 
 ### Fault Analysis
-* Tele-Knowledge Pre-training for Fault Analysis (ICDE, 2023) [[paper]](arxiv.org/abs/2210.11298)
+* Tele-Knowledge Pre-training for Fault Analysis (ICDE, 2023) [[paper]](https://arxiv.org/abs/2210.11298)

@@ -14,6 +14,7 @@ Large language models (LLMs) have achieved remarkable success and generalizabili
 
 ## News
 🔭 This project is under development. You can hit the **STAR** and **WATCH** to follow the updates.
+* Our KG for LLM probing paper: [Systematic Assessment of Factual Knowledge in Large Language Models](https://arxiv.org/abs/2310.11638) has been accepted by EMNLP 2023.
 * Our KG + LLM reasoning paper: [Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning](https://arxiv.org/abs/2310.01061) is now public.
 * Our LLM for KG reasoning paper: [ChatRule: Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning](https://arxiv.org/abs/2309.01538) is now public.
 * Our roadmap paper: [Unifying Large Language Models and Knowledge Graphs: A Roadmap](https://arxiv.org/abs/2306.08302) is now public.

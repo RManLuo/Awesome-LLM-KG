@@ -35,8 +35,8 @@ If this repository is helpful for you, plase help us by citing this paper:
 @article{llm_kg,
 title={Unifying Large Language Models and Knowledge Graphs: A Roadmap},
 author={Pan, Shirui and Luo, Linhao and Wang, Yufei and Chen, Chen and Wang, Jiapu and Wu, Xindong},
-journal={arXiv preprint arxiv:306.08302},
-year={2023}
+journal={IEEE Transactions on Knowledge and Data Engineering (TKDE)},
+year={2024}
 }
 ```
 

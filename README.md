@@ -64,7 +64,7 @@ year={2023}
     - [Fault Analysis](#fault-analysis)
 ## Related Surveys
 
-* Unifying Large Language Models and Knowledge Graphs: A Roadmap (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2306.08302.pdf)
+* Unifying Large Language Models and Knowledge Graphs: A Roadmap (TKDE, 2024) [[paper]](https://arxiv.org/pdf/2306.08302.pdf)
 * A Survey on Knowledge-Enhanced Pre-trained Language Models (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2212.13428.pdf)
 * A Survey of Knowledge-Intensive NLP with Pre-Trained Language Models (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2202.08772.pdf)
 * A Review on Language Models as Knowledge Bases (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2204.06031.pdf)

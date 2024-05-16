@@ -15,7 +15,7 @@ Large language models (LLMs) have achieved remarkable success and generalizabili
 ## News
 🔭 This project is under development. You can hit the **STAR** and **WATCH** to follow the updates.
 * Our KG for analyzing LLM reasoning paper: [Direct Evaluation of Chain-of-Thought in Multi-hop Reasoning
-with Knowledge Graphs](https://arxiv.org/abs/2402.11199) is now public. 
+with Knowledge Graphs](https://arxiv.org/abs/2402.11199) has been accepted by ACL 2024.
 * Our [roadmap paper](https://arxiv.org/abs/2306.08302) has been accepted by TKDE.
 * Our KG for LLM probing paper: [Systematic Assessment of Factual Knowledge in Large Language Models](https://arxiv.org/abs/2310.11638) has been accepted by EMNLP 2023.
 * Our KG + LLM reasoning paper: [Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning](https://arxiv.org/abs/2310.01061) has been accepted by ICLR 2024.

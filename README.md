@@ -126,6 +126,7 @@ year={2024}
 
 ## LLM-augmented KGs
 ### LLM-augmented KG Embedding
+- Entity Alignment with Noisy Annotations from Large Language Models (NeurIPS, 2024) [[paper](https://arxiv.org/abs/2405.16806)]
 - LambdaKG: A Library for Pre-trained Language Model-Based Knowledge Graph Embeddings (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2210.00305.pdf)
 - Integrating Knowledge Graph embedding and pretrained Language Models in Hypercomplex Spaces (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2208.02743.pdf)
 - Endowing Language Models with Multimodal Knowledge Graph Representations (Arxiv, 2022) [[paper]](https://arxiv.org/abs/2206.13163)

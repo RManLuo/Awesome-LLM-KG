@@ -108,6 +108,7 @@ year={2024}
 - Greaselm: Graph reasoning enhanced language models (ICLR, 2022) [[paper]](https://openreview.net/pdf?id=41e9o6cQPj)
 - An efficient memory-augmented transformer for knowledge-intensive NLP tasks (EMNLP, 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.346.pdf)
 - Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering (NLRSE@ACL, 2023) [[paper]](https://arxiv.org/abs/2306.04136)
+- LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments (EMNLP Findings, 2024) [[paper](https://arxiv.org/abs/2408.15903)] 
 
 
 ### KG-enhanced LLM Interpretability

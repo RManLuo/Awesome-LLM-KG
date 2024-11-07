@@ -185,6 +185,7 @@ year={2024}
 Pretraining (NIPS, 2022) [[paper]](https://arxiv.org/abs/2210.09338)
 * KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation (TACL, 2021) [[paper]](https://aclanthology.org/2021.tacl-1.11.pdf)
 * JointGT: Graph-Text Joint Representation Learning for Text Generation from Knowledge Graphs (ACL 2021) [[paper]](https://aclanthology.org/2021.findings-acl.223/)
+* Unveiling LLMs: The Evolution of Latent Representations in a Dynamic Knowledge Graph (COLM, 2024) [[paper]](https://openreview.net/pdf?id=dWYRjT501w)
 
 ### Reasoning
 * A Unified Knowledge Graph Augmentation Service for Boosting

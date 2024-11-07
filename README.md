@@ -137,7 +137,6 @@ year={2024}
 - Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models (EMNLP, 2020) [[paper]](https://aclanthology.org/2020.findings-emnlp.25.pdf)
 - KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation (TACL, 2020) [[paper]](https://arxiv.org/pdf/1911.06136.pdf)
 
-
 ### LLM-augmented KG Completion
 - Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models (COLING 2024) [[paper]](https://arxiv.org/abs/2403.01972) [[Code]](https://github.com/quqxui/MPIKGC)
 - KG-BERT: BERT for knowledge graph completion (Arxiv, 2019) [[paper]](http://arxiv.org/abs/1909.03193)
@@ -154,6 +153,9 @@ year={2024}
 - Knowledge is flat: A seq2seq generative framework for various knowledge graph completion (COLING, 2022) [[paper]](https://aclanthology.org/2022.coling-1.352)
 - A framework for adapting pre-trained language models to knowledge graph completion (EMNLP, 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.398)
 - Dipping plms sauce: Bridging structure and text for effective knowledge graph completion via conditional soft prompting (ACL, 2023) [[paper]](https://aclanthology.org/2023.findings-acl.729/)
+
+### LLM-augmented KG Creation
+- Glitter or gold? Deriving Structured Insights from Sustainability Reports via Large Language Models (EPJ Data Science, 2024) [[paper]](https://link.springer.com/content/pdf/10.1140/epjds/s13688-024-00481-2.pdf)
 
 ### LLM-augmented KG-to-Text Generation
 - GenWiki: A dataset of 1.3 million content-sharing text and graphs for unsupervised graph-to-text generation  (COLING, 2020) [[paper]](https://aclanthology.org/2020.coling-main.217.pdf)
@@ -175,7 +177,6 @@ year={2024}
 - GREASELM: GRAPH REASONING ENHANCED LANGUAGE MODELS FOR QUESTION ANSWERING (ICLR, 2022) [[paper]](https://openreview.net/pdf?id=41e9o6cQPj)
 - LaKo: Knowledge-driven Visual Question Answering via Late Knowledge-to-Text Injection (IJCKG, 2022) [[paper]](https://arxiv.org/abs/2207.12888)
 - QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering (NAACL, 2021) [[paper]](https://aclanthology.org/2021.naacl-main.45/)
-
 
 ## Synergized LLMs + KGs
 ### Knowledge Representation

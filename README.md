@@ -14,7 +14,8 @@ Large language models (LLMs) have achieved remarkable success and generalizabili
 
 ## News
 🔭 This project is under development. You can hit the **STAR** and **WATCH** to follow the updates.
-* Our latest work on KG + LLM reaosning is now public: [Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with Large Language Models](https://arxiv.org/abs/2410.13080)
+* We are happy to release the first **graph foundation model**-powered RAG pipeline (GFM-RAG) that combines the power of GNNs with LLMs to enhance reasoning. [Paper](https://www.arxiv.org/abs/2502.01113) and [Code](https://github.com/RManLuo/gfm-rag).
+* Our latest work on KG + LLM reasoning is now public: [Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with Large Language Models](https://arxiv.org/abs/2410.13080)
 * Our LLM for temporal KG reasoning work: [Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning](https://arxiv.org/abs/2405.14170) has been accepted by NeurIPS 2024!
 * Our KG for analyzing LLM reasoning paper: [Direct Evaluation of Chain-of-Thought in Multi-hop Reasoning
 with Knowledge Graphs](https://arxiv.org/abs/2402.11199) has been accepted by ACL 2024.

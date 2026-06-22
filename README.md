@@ -200,3 +200,6 @@ for Complex Reasoning (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2301.08913.p
 
 ### Fault Analysis
 * Tele-Knowledge Pre-training for Fault Analysis (ICDE, 2023) [[paper]](https://arxiv.org/abs/2210.11298)
+
+### ESG / Sustainability
+* KG4ESG: The ESG Knowledge Graph Atlas (Preprints, 2026) [[paper]](https://www.preprints.org/manuscript/202602.1970)

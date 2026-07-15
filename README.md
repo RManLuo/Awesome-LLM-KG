@@ -110,6 +110,7 @@ year={2024}
 - An efficient memory-augmented transformer for knowledge-intensive NLP tasks (EMNLP, 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.346.pdf)
 - Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering (NLRSE@ACL, 2023) [[paper]](https://arxiv.org/abs/2306.04136)
 - LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments (EMNLP Findings, 2024) [[paper](https://arxiv.org/abs/2408.15903)] 
+- An Expert-In-The-Loop Design Utilising Knowledge Graphs to Prompt LLMs in Professional Writing (HCII, 2026) [[paper]](https://link.springer.com/chapter/10.1007/978-3-032-30849-8_31)
 
 
 ### KG-enhanced LLM Interpretability

@@ -180,6 +180,7 @@ year={2024}
 
 ## Synergized LLMs + KGs
 ### Knowledge Representation
+* SSKG Hub: An Expert-Guided Platform for LLM-Empowered Sustainability Standards Knowledge Graphs (arXiv, 2026) [[paper]](https://arxiv.org/abs/2603.00669)
 * Tele-Knowledge Pre-training for Fault Analysis (ICDE, 2023) [[paper]](https://arxiv.org/abs/2210.11298)
 * Pre-training language model incorporating domain-specific heterogeneous knowledge into a unified representation (Expert Systems with Applications, 2023) [[paper]](https://www.sciencedirect.com/science/article/pii/S0957417422023879)
 * Deep Bidirectional Language-Knowledge Graph
